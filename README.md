@@ -10,3 +10,4 @@ Web application for face detection
 5. Installed additonal style tools:
 - npm install --save react-tilt (for logo tilt)
 - npm install react-particles-js (for particles in background (optional))
+6. Cahnged website style - gray scale
